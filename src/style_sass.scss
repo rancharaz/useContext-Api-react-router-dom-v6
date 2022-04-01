@@ -1,0 +1,23 @@
+.navbar {
+    @apply bg-black h-20 w-full flex text-center justify-center sticky
+}
+
+.logo {
+    @apply ml-32 mr-40
+}
+
+ul{
+    @apply justify-between 
+
+
+}
+a {
+    @apply m-2
+}
+li {
+    @apply mr-8
+}
+
+ .btn-test {
+     @apply bg-slate-700 text-white p-3 rounded-md outline-none w-28 ml-3
+ }
